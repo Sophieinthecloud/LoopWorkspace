@@ -45,7 +45,6 @@ jobs:
           low_carb_limit \
           no_auth \
           now_line \
-          customtypeone_looppatches \
           2002 \
           testflight_expiration_warning
 
